@@ -11,4 +11,6 @@ if(counter<colors.length){
 }else{
     counter=0
 }
+
+
 });
