@@ -8,5 +8,7 @@ if(counter<colors.length){
     colour.style.backgroundColor= colors[counter]
     colour.textContent=colors[counter]
     counter++
+}else{
+    counter=0
 }
 });
