@@ -7,6 +7,7 @@ if(counter<colors.length){
     document.body.style.backgroundColor=colors[counter]
     colour.style.backgroundColor= colors[counter]
     colour.textContent=colors[counter]
+    counter++
 }
 
 
